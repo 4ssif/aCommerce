@@ -1,5 +1,5 @@
 .container{
-    margin-bottom: 100px;
+    margin-bottom: 50px;
 }
 .pink-orange-bg{
     background-color: #feeae9;
@@ -18,4 +18,32 @@
     border-radius: 8px;
     padding: 9px 25px;
     cursor: pointer;
+}
+.cat1,.cat2,.cat3{
+    padding: 10px 30px;
+    color: white;
+    border-radius: 10px;
+}
+.cat1{
+    background-color: orange;
+    
+}
+.cat2{
+    background-color: orchid;
+}
+.cat3{
+    background-color: blue;
+}
+.catagories img{
+    width: 100px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+#contactus{
+    height: 300px;
+}
+#contactus h6{
+    color: grey;
 }
